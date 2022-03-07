@@ -1,0 +1,39 @@
+#containner{
+    position: relative;
+    border: 1px solid #000;
+    width: 60%;
+    left: 7em;
+}
+#containner input, button{
+    margin: 3px;
+    position: relative;
+    border-radius: 5px;
+    left:30em;
+    bottom: 2em;
+}
+
+.download table{
+    position: relative;
+    bottom: 3em;
+}
+
+#containner button{
+    background-color: #28a745;
+    border-radius: 5px;
+    color: white;
+}
+#containner button:hover{
+    background-color: #218a3a;
+    border-radius: 5px;
+    color: white;
+}
+.row1{
+    background-image: url('assets/helpdesk.jpeg');
+    background-size: 100%;
+    width: 100%;
+    height: 20em;
+}
+.row1 h2{
+    text-align: center;
+    font-size: 60px;
+}
