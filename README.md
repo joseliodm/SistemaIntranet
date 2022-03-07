@@ -1,1 +1,1 @@
-# Sistema
+# Site/Sistema respansivo Intranet para interação interna, desenvolvido por Josélio Dias Mendonça Analista de Sitemas Junior, html5, css3, bootstrap, jquery, php, javascript, Ajax, Laravel, MySql. 
